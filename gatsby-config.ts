@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.mjs
-    siteTitle: `Emma`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emma.lekoarts.de`,
+    siteTitle: `Carlos Ortega Morales Portfolio`,
+    siteTitleAlt: `CarlosOMx Portfolio`,
+    siteHeadline: `CarlosOMx Portfolio`,
+    siteUrl: `https://carlosomx.netlify.app`,
     siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@carlosomx`,
   },
   trailingSlash: `always`,
   plugins: [
