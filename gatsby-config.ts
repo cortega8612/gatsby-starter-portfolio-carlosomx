@@ -37,7 +37,7 @@ const config: GatsbyConfig = {
         short_name: `Emma`,
         description: `Minimalistic bright portfolio with full-width grid and large images`,
         start_url: `/`,
-        background_color: `#fff`,
+        background_color: `#000`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#b83280`,
